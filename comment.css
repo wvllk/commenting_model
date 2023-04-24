@@ -1,0 +1,13 @@
+<style>
+  #comment-section {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  #comment-list {
+    list-style: none;
+    padding: 0;
+  }
+  #comment-list li {
+    margin-bottom: 10px;
+  }
+</style>
